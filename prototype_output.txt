@@ -1,0 +1,9 @@
+Synthetic: 600 parts across 5 thicknesses, 3 offcuts per thickness, 30 runs
+{"stock_accuracy": 1.0, "mean_fresh_t_no_reuse": 25.2, "mean_fresh_t_with_reuse": 22.0, "mean_purchase_reduction_pct": 12.7, "min_pct": 0.0, "max_pct": 27.7}
+{"stock_accuracy": 0.7, "mean_fresh_t_no_reuse": 25.2, "mean_fresh_t_with_reuse": 22.9, "mean_purchase_reduction_pct": 9.1, "min_pct": -4.1, "max_pct": 20.5}
+{"stock_accuracy": 0.4, "mean_fresh_t_no_reuse": 25.2, "mean_fresh_t_with_reuse": 24.2, "mean_purchase_reduction_pct": 3.9, "min_pct": -15.4, "max_pct": 15.8}
+Synthetic: 300 cut lengths, 40 stock offcuts (1.5-6 m), 30 runs
+{'stock_accuracy': 1.0, 'mean_purchase_reduction_pct': 12.1, 'min': 10.5, 'max': 13.5}
+{'stock_accuracy': 0.7, 'mean_purchase_reduction_pct': 8.4, 'min': 5.6, 'max': 11.5}
+{'stock_accuracy': 0.4, 'mean_purchase_reduction_pct': 4.7, 'min': 1.9, 'max': 7.7}
+{'n': 30, 'mean_gain_pts': 5.95, 'ci95': (2.32, 10.3), 'verdict': 'GO: build the optimiser (gain >= 2 pts, CI above 0)'}
